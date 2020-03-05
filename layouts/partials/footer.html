@@ -18,6 +18,9 @@
                 powered_by:
                 "Sakonn the webdeveloper"
             });	
+            Snipcart.subscribe('cart.closed', function() {
+    console.log('Snipcart popup has been closed');
+});
         </script>
 	</body>
 </html>

@@ -7,9 +7,10 @@
     "url": "https://sakonn-snipcart.netlify.com/"
 }, {
     "id": "2",
-    "name": "Captain Kirk Phaser",
-    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
-    "price": 145.98,
+    "name": "Captain subscription",
+    "description": "My cool original subscription product. The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 45.98,
     "image": "/images/phaser.png",
-    "url": "https://sakonn-snipcart.netlify.com/"
+    "url": "https://sakonn-snipcart.netlify.com/",
+    "interval" : "Month"
 }]
